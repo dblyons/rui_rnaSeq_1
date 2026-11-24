@@ -1,0 +1,13 @@
+sample	fastq_1	fastq_2	condition	replicate	batch
+C2M_R1	./fastq/C2M_R1_1.fq.gz	./fastq/C2M_R1_2.fq.gz	mutant_c2m	1	A
+C2M_R2	./fastq/C2M_R2_1.fq.gz	./fastq/C2M_R2_2.fq.gz	mutant_c2m	2	A
+C2M_R3	./fastq/C2M_R3_1.fq.gz	./fastq/C2M_R3_2.fq.gz	mutant_c2m	3	A
+Sfmbt_R1	./fastq/Sfmbt_R1_1.fq.gz	./fastq/Sfmbt_R1_2.fq.gz	mutant_sfmbt	1	A
+Sfmbt_R2	./fastq/Sfmbt_R2_1.fq.gz	./fastq/Sfmbt_R2_2.fq.gz	mutant_sfmbt	2	A
+Sfmbt_R3	./fastq/Sfmbt_R3_1.fq.gz	./fastq/Sfmbt_R3_2.fq.gz	mutant_sfmbt	3	A
+C2M_Sfmbt_R1	./fastq/C2M_Sfmbt_R1_1.fq.gz	./fastq/C2M_Sfmbt_R1_2.fq.gz	mutant_c2mSfmbt	1	A
+C2M_Sfmbt_R2	./fastq/C2M_Sfmbt_R2_1.fq.gz	./fastq/C2M_Sfmbt_R2_2.fq.gz	mutant_c2mSfmbt	2	A
+C2M_Sfmbt_R3	./fastq/C2M_Sfmbt_R3_1.fq.gz	./fastq/C2M_Sfmbt_R3_2.fq.gz	mutant_c2mSfmbt	3	A
+control_R1	./fastq/control_R1_1.fq.gz	./fastq/control_R1_2.fq.gz	control	1	A
+control_R2	./fastq/control_R2_1.fq.gz	./fastq/control_R2_2.fq.gz	control	2	A
+control_R3	./fastq/control_R3_1.fq.gz	./fastq/control_R3_2.fq.gz	control	3	A

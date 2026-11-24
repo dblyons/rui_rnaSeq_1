@@ -1,0 +1,5 @@
+id	variable	reference	target	blocking
+sfmbti	condition	control	mutant_sfmbt	
+C2Moe	condition	control	mutant_c2m	
+sfmbti_c2mOe	condition	control	mutant_c2mSfmbt	
+both_v_sfmbt	condition	mutant_sfmbt	mutant_c2mSfmbt	
